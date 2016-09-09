@@ -1,1 +1,1 @@
-# PrimeNumbers
+This program is capable of deciding whether a positive integer n is a prime number. It also calculates the prime values used to get a non prime number (in ascending order), where the user is asked to input an integer between 2 and 100000
